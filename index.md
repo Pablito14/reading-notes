@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Welcome to Pablo's reading notes!
 
-You can use the [editor on GitHub](https://github.com/Pablito14/reading-notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This site will serve to display the required daily readings as well as my responses to them.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Code 401 -Advanced Software Development
 
-### Markdown
+### Day1: Java Basics
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Java tutorials from Oracle**
+I like that most coding principles are mentioned in this resource. It makes it really easy to get the concepts & apply them to Java if you have learned them before in a different language like Javascript.
 
-```markdown
-Syntax highlighted code block
+**Reddit thread on compiling**
+I think that the explain it like I'm 5 subreddit did a really great job of describing what compiling code means. All it really means is to translate your code from x language to machine code (1's & 0's), but it will check to see if everything is syntactically correct while it translates. This raises the question of what a translator does in other coding languages though, I'll have to look that up.
 
-# Header 1
-## Header 2
-### Header 3
+**xkcd webcomic on compiling**
+While hilarious, it is somewhat true. If your code is compiling, it can take a while dependent on the length, & complexity of what you are trying to compile. This can lead to some free time to do lots of different activities, such as sword fighting in the office.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Pablito14/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Reading Java Documentation**
+This article is all about learning how to navigate through the java docs/api. It displays how to find things you might be searching for, & what each module contains. Already saved me multiple times, so much so that it's earned a place in my bookmarks bar.
